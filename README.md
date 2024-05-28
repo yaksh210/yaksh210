@@ -6,7 +6,6 @@
 
 <p align="left">I am Passionate about DevOps, I am currently working with DevOps technologies in my company, enhancing my technical skill set. I also bring practical internship experience in web development, where I have contributed to real-world projects. Additionally, I have a strong foundation in software development and am proficient in collaborating within development teams. Eager to transition into a professional role, I look forward to applying my expertise in DevOps, web development, and software development to make a meaningful impact with my contributions.</p>
 
-###
 
 <h3 align="left">Frontend Languages</h3>
 
